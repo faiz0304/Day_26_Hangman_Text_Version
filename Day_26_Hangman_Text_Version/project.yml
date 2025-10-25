@@ -1,0 +1,31 @@
+
+---
+
+### **project.yml**
+```yaml
+project:
+  name: Hangman (Simple Text Version)
+  day: 26
+  week: 4
+  author: Faiz Ur Rehman Ashrafi
+  category: OOP & Little Challenges
+  language: Python
+  difficulty: Easy
+  version_history:
+    - 01_hangman.py: "Prototype version – basic concept testing"
+    - 02_hangman.py: "Functional version – input validation + chance system"
+    - 03_hangman.py: "First OOP structured version"
+    - 04_hangman.py: "Final version – Random word + clean OOP structure"
+  description: >
+    Console-based Hangman game where the player guesses the hidden word letter by letter.
+    Demonstrates transition from procedural code to object-oriented design.
+  requirements:
+    - Python 3.x
+  features:
+    - Random word selection
+    - Input validation
+    - Lives system
+    - Text-based progress display
+    - Exit anytime by typing '0'
+  tags: ["Python", "OOP", "Mini Project", "Text Game", "Hangman"]
+

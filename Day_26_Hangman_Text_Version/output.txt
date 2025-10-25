@@ -1,0 +1,33 @@
+=== Welcome to Hangman (Text Version) ===
+
+Word length = 8
+ _  _  _  _  _  _  _  _ 
+
+Type '0' to Exit.
+Guess a letter: p
+Perfect! 'p' is correct!
+p _ _ _ _ _ _ _
+You have 5 chance(s) left.
+
+Guess a letter: y
+Perfect! 'y' is correct!
+p y _ _ _ _ _ _
+You have 5 chance(s) left.
+
+Guess a letter: t
+Perfect! 't' is correct!
+p y t _ _ _ _ _
+You have 5 chance(s) left.
+
+Guess a letter: o
+Perfect! 'o' is correct!
+p y t o _ _ _ _
+You have 5 chance(s) left.
+
+Guess a letter: n
+Perfect! 'n' is correct!
+p y t o n _ _ _
+You have 5 chance(s) left.
+
+Congratulations! You guessed the full word correctly!
+Game Over - You Win!
